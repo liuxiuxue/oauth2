@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Auth Server
+Implementation-Version: 0.0.1
+Built-By: lenovo
+Implementation-Vendor-Id: com.liuxiuxue
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/oauth-server
+ /
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
